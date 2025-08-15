@@ -1,0 +1,17 @@
+{
+  "name": "to-do-list-vuejs",
+  "version": "1.0.0",
+  "description": "Một ứng dụng danh sách công việc đơn giản sử dụng Vue.js giúp người dùng quản lý và theo dõi công việc hàng ngày của mình.",
+  "main": "src/main.js",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "vue": "^2.6.12"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^4.5.0"
+  },
+  "license": "MIT"
+}
