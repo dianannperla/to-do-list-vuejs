@@ -8,7 +8,7 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
-    "vue": "^2.6.12"
+    "vue": "^2.6.14" // Updated to latest patch version
   },
   "devDependencies": {
     "@vue/cli-service": "^4.5.0"
