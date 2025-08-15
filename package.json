@@ -13,5 +13,9 @@
   "devDependencies": {
     "@vue/cli-service": "^4.5.0"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/username/to-do-list-vuejs.git"
+  }
 }
